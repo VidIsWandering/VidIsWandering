@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi, I'm Nguyen Quoc Bao 👋
 
-<!--
-**VidIsWandering/VidIsWandering** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Software Engineering Student @ VNU-HCM, University of Information Technology**
+> 📍 Ho Chi Minh City, Vietnam
 
-Here are some ideas to get you started:
+I am a **Backend-focused Engineer** currently exploring **Cloud Native & Distributed Systems**.
+My journey started with C++ algorithms, evolved through full-stack product development with Node.js, and is now deeply focused on **Software Architecture**, **DevOps**, and **High-Performance Systems** using **Go**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ The Engineering Arsenal
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/Go_(Learning)-00ADD8?style=flat-square&logo=go&logoColor=white) |
+| **Backend Core** | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Microservices](https://img.shields.io/badge/Microservices-Architecture-black?style=flat-square) |
+| **Data & Cache** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **Infra & DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
+
+---
+
+### 🚀 Engineering Journey
+
+*A chronological log of my technical evolution and key milestones.*
+
+| Timeline | Focus & Milestones | Key Projects & Tech Stack |
+| :--- | :--- | :--- |
+| **Jan 2026 - Present** | **The Transition: Go & Automation**<br>Self-studying Go, TDD, and automation to keep improving in backend performance and reliability. | • *Learning:* Go, TDD, Google IT Automation (Python).<br>• *Goal:* Deepen my understanding of Concurrency & Distributed Systems. |
+| **Sep 2025 - Jan 2026** | **System Engineering & Cloud Native**<br>Shifted focus toward system design, scalability, and the DevOps lifecycle; explored Modular Monolith and Microservices patterns. | • **[Warehouse & SCM System](https://github.com/SE214-Semicolon/Warehouse-and-Supply-Chain-Management-System):** Modular Monolith, NestJS, Prisma, Redis.<br>• **[Ride-hailing Backend](https://github.com/VidIsWandering/uit-go-backend):** AWS, Terraform, Prometheus, Grafana.<br>• **[Real Estate Office](https://github.com/VidIsWandering/real-estate-office-management):** CI/CD Pipeline, Cloudinary, Vercel/Render. |
+| **Summer 2025** | **Mobile Exploration**<br>Explored mobile development with Flutter/Dart to better understand client-side constraints. | • *Explored:* Flutter, Bloc, Firebase, Supabase, Clean Architecture.<br>*(Decided to double down on Backend Engineering afterwards)* |
+| **Sep 2024 - Jun 2025** | **Product Development & CS Foundations**<br>Worked on building end-to-end web/mobile applications. Achieved **IELTS 6.5**. Strengthened knowledge in OS, networks, and databases. | • **[Wedding Planner](https://github.com/caoquang284/wedding-planner):** Node.js, Express, Knex.js, PostgreSQL.<br>• **[Memorix App](https://github.com/VidIsWandering/memorix-backend):** Java/Kotlin (Mobile) & Express (Backend).<br>• *Others:* C#/.NET (Hotel Mgmt). |
+| **Sep 2023 - Aug 2024** | **The Foundation**<br>Developing a foundation in C++, OOP, data structures, and algorithms. | • C++, OOP, DSA.<br>• Intro to SE & Marketing with GenAI. |
+
+---
+
+### 🌟 Featured Highlights (Year 3)
+
+#### 1. [Warehouse & Supply Chain Management System](https://github.com/SE214-Semicolon/Warehouse-and-Supply-Chain-Management-System)
+*A Modular Monolith system designed for high maintainability and agile development.*
+- **Role:** Backend Engineer.
+- **Engineering:** Implemented domain-driven modules, ensured data consistency across Polyglot Persistence (Postgres + Mongo), and optimized caching with Redis.
+- **Stack:** NestJS, TypeScript, Prisma, Docker.
+
+#### 2. [Ride-hailing & Service Platform Backend](https://github.com/VidIsWandering/uit-go-backend)
+*An experimental microservices backend focusing on scalability and observability.*
+- **Role:** System Engineer & Architect.
+- **Engineering:** Designed cloud-native architecture on **AWS**, provisioned infra using **Terraform**, and set up monitoring with **Prometheus/Grafana**.
+- **Stack:** Node.js, Microservices, AWS, Terraform.
+
+---
+
+### 📊 GitHub Activity
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=VidIsWandering&show_icons=true&theme=gotham&hide_border=true&count_private=true" alt="stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VidIsWandering&layout=compact&theme=gotham&hide_border=true&hide=html,css,scss" alt="languages" height="150" />
+</p>
+
+---
+
+### 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/b%E1%BA%A3o-nguy%E1%BB%85n-qu%E1%BB%91c-547278378/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:nguyenquocbao9.work@gmail.com)
